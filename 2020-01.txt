@@ -1,0 +1,112 @@
+
+
+Relevant courses
+  - http://www.cvl.isy.liu.se/education/graduate/artikelklubb/
+
+Web
+  - Info
+  - Paper log
+
+Focus
+  - Computer graphics and image processing
+  - Computer vision
+  - Machine learning
+  - The intersection between the above...
+  - Also more fundamental papers on techniques used, e.g. in deep learning
+
+
+
+
+Participants:
+--------------
+Kristofer Krus,     18/2, 3/3, 17/3, 12/5, 26/5, 9/6 (two presentations)
+Lonni Besancon,
+Fereshteh Abedini,  9/6
+Wito Engelke,       17/3
+Apostolia,          31/3
+Saghi
+Tanaboon,           4/2
+Gabriel B.,         26/5
+Karin,              3/3
+Milda               14/4
+Jens,               28/4
+Elmira,             14/4
+Daniel
+
+
+4/2
+---
+Presenter: Tanaboon
+Participants: Tanaboon, Apostolia, Jens, Milda, Wito, Karin, Gabriel E., Hugo
+
+18/2
+---
+Presenter: Kristofer
+Participants: Apostolia, Gabriel B., Jens, Milda, Gabriel E., Kristofer
+
+3/3
+---
+Presenter: Karin
+Participants: Karin, Gabriel B., Daniel J., Fereshteh, Jens, Milda, Gabriel E., Kristofer
+
+17/3
+---
+Presenter: Wito
+Participants: Wito, Gabriel E., Jens, Elmira, Apostolia, Kristofer, Fereshteh, Saghi
+
+
+31/3
+---
+Presenter: Apostolia
+Participants: Kristofer, Gabriel E., Jens, Apostolia, Saghi, Elmira, (Tanaboon, after ~1h)
+
+
+14/4
+---
+Presenter 1: Milda
+Participants: Apostolia, Gabriel E., Gabriel B., Jens, Karin, Milda, Elmira, Fereshteh, Tanaboon
+
+Presenter 2: Elmira
+Participants: Gabriel E., Gabriel B., Jens, Karin, Milda, Elmira, Fereshteh, Tanaboon
+
+
+28/4
+---
+Presenter: Jens
+Participants: Kristofer, Gabriel E., Jens, Gabriel B., Milda, Apostolia, Saghi
+
+
+12/5
+---
+Presenter: Gabriel E.
+Participants: Apostolia, Gabriel E., Jens, Kristofer, Milda, Karin, Tanaboon
+
+
+26/5
+---
+Presenter: Gabriel B.
+Participants: Gabriel B., Apostolia, Saghi, Fereshteh, Gabriel E.
+
+
+9/6
+---
+Presenter 1: Fereshteh
+Participants: Fereshteh, Gabriel E., Kristofer, Apostolia, Tanaboon, Milda
+
+Presenter 2: Kristofer
+Participants: Fereshteh, Gabriel E., Kristofer, Apostolia, Tanaboon, Milda
+
+
+
+==== Credits, VT 2020 ====
+Tanaboon Tongbuasirilai (tanto11) 1p
+Kristofer Krus (krikr42) 2p
+Karin Stacke (karst38) 1p
+Wito Engelke (witen91) 1p   (missing one attendance...)
+Apostolia Tsirikoglou (apots22) 1p
+Milda Poceviciute (milpo34) 1p
+Elmira Zohrevandi (elmzo80) 1p
+Jens Nilsson (jenni29) 1p
+Gabriel Baravdish (gabba11) 1p
+Fereshteh Abedini (ferab96) 1p
+
