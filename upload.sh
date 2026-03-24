@@ -1,1 +1,1 @@
-scp index.html yifdi82@sites.liu.se:computergraphics/vcl_reading_group
+scp index.html nitch36@sites.liu.se:computergraphics/vcl_reading_group
